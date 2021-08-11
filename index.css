@@ -1160,7 +1160,7 @@
   font-family:Roboto Slab;
   font-weight:400;
   font-size:20px;
-  text-decoration:line-through;
+  text-decoration:line-through rgb(255, 38, 38);
   line-height:26.399999618530273px;
 }
 .About-outer{
